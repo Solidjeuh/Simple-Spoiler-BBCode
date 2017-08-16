@@ -1,0 +1,1 @@
+# Simple Spoiler BBCode
